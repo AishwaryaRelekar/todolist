@@ -1,0 +1,36 @@
+.container {
+  width: 30%;
+  margin: 70px auto;
+  box-shadow: 1px 2px 3px black;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.container h1 {
+  text-align: center;
+
+  margin-bottom: 25px;
+}
+
+.container label {
+  font-size: 1.4rem;
+  color: #123456;
+}
+
+.container input {
+  width: 100%;
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.container .btn {
+  text-align: center;
+}
+
+.btn button {
+  padding: 10px 25px;
+  border-radius: 25px;
+  background: black;
+  color: white;
+}

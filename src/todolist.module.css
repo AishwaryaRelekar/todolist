@@ -1,0 +1,98 @@
+.select {
+  margin-left: 74rem;
+}
+.select select {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  width: 100%;
+  max-width: 200px;
+  margin-top: 15px;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+  text-transform: uppercase;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card {
+  margin-bottom: 35px;
+  width: 45%;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+  margin-bottom: 50px;
+  position: relative;
+}
+.card:hover {
+  transform: scale(1.02);
+}
+.card h3 {
+  margin: 0 0 10px;
+  color: #007bff;
+}
+
+.card .p {
+  margin: 4px 0;
+  color: #555;
+  font-size: 1.2rem;
+  font-style: italic;
+}
+.card p {
+  margin: 4px 0;
+  color: #555;
+}
+
+.card button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  margin-right: 5px;
+  transition: background-color 0.3s;
+}
+
+.card input[type="text"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+textarea {
+  height: 60px;
+}
+
+.status {
+  position: absolute;
+  top: -1rem;
+  right: -0.5rem;
+}
+
+.status button {
+  padding: 5px 15px;
+  font-size: 14px;
+  border-radius: 4px;
+}
