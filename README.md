@@ -17,12 +17,20 @@ This project is a ToDo List Application built using **React Js** for front-end, 
 ## Screenshots
 ### Add Task
 *This screen shows how users can add a new task to the list.*
+
 ![Screenshot (1092)](https://github.com/user-attachments/assets/7599b66d-958f-4a0b-984e-93f4c251745c)
 
 ### Task list
 *This screen shows all the tasks that are added*
+
 ![Screenshot (1093)](https://github.com/user-attachments/assets/d7634e75-9441-465d-a5d9-645a19612548)
 
 ### Task List with Completed Tasks
 *This screen shows the task list with some tasks marked as completed.*
+
 ![Screenshot (1094)](https://github.com/user-attachments/assets/361d6640-dc48-4009-806f-7994858632d9)
+
+### Task List with Pending Tasks
+*This screen shows the task list with some tasks marked as pending.*
+
+![Screenshot (1095)](https://github.com/user-attachments/assets/52066ad5-7b69-4c4c-be4b-eb9199bc565f)
